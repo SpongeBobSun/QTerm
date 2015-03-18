@@ -1,0 +1,7 @@
+
+This is a simple telnet terminal emulator.
+Support TLS encrypt.
+You can use this terminal to connect mainframes like HP Nonstop Server.
+Written in QT. So it's cross-platform. Tested under Windows and OS X.
+Command completer is NOT functioning temporarily. 
+Character mode is NOT functioning temporarily.
